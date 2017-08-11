@@ -16,9 +16,12 @@ As things are completed, they will be crossed out and a link will be added to th
 - [ ] IlliniHackers?
 - [ ] SIG plans (Bot, GLUG, etc.)
 - [ ] Finish GPU Cluster Frontend - https://github.com/acm-uiuc/gpu-cluster-frontend
+- [ ] Write GPU Cluster Backend - https://github.com/acm-uiuc/gpu-cluster-backend
 - [ ] Finish PyTorch Numpy PR - https://github.com/pytorch/pytorch/pull/2123
 - [ ] Write CNN Presentation
 - [ ] Arbor Development - https://github.com/acm-uiuc/arbor
+- [ ] Find someone to/Run Banks of the Boneyard
+
 
 ## Things to Make
 
