@@ -17,6 +17,7 @@ As things are completed, they will be crossed out and a link will be added to th
 - [ ] SIG plans (Bot, GLUG, etc.)
 - [ ] Finish GPU Cluster Frontend - https://github.com/acm-uiuc/gpu-cluster-frontend
 - [ ] Finish PyTorch Numpy PR - https://github.com/pytorch/pytorch/pull/2123
+- [ ] Write CNN Presentation
 
 ## Things to Make
 
