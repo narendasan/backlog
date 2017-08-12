@@ -10,6 +10,8 @@ Create a weekly 3 hour block in the Middle Room
 ## Current Projects
 1. Groot
    -  Take Groot through 3.0 and begin handover at 2.5
+2. Food Light <- Great intro to groot project prehaps or just a bot
+   - Food post on twitter/ACM site/Maybe fb on button press 
 2. GPU Cluster
    -  Get Web based control working then begin handover
 3. Banks of the Boneyard
