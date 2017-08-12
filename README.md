@@ -21,6 +21,7 @@ As things are completed, they will be crossed out and a link will be added to th
 - [ ] Write CNN Presentation
 - [ ] Arbor Development - https://github.com/acm-uiuc/arbor
 - [ ] Find someone to/Run Banks of the Boneyard
+- [ ] Implement Pix2Pix
 
 
 ## Things to Make
@@ -35,6 +36,7 @@ As things are completed, they will be crossed out and a link will be added to th
 
 - [ ] etherium  DApps - https://dapps.ethercasts.com/
 - [ ] GANs
+- [ ] Pix2Pix
 - [ ] Deep RL
 - [ ] Seq2Seq
 - [ ] MCU Based Board Design
