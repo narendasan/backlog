@@ -43,6 +43,9 @@ As things are completed, they will be crossed out and a link will be added to th
 - [ ] MCU Based Board Design
 - [ ] SDR
 - [ ] VQA
+- [ ] Spike Networks
+- [ ] Binary Networks 
+- [ ] Biasian Networks 
 
 # Frequent Links
 - https://github.com/narendasan/AI-DNN-Papers
