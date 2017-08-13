@@ -41,7 +41,8 @@ As things are completed, they will be crossed out and a link will be added to th
 - [ ] Deep RL
 - [ ] Seq2Seq
 - [ ] MCU Based Board Design
-= [ ] SDR
+- [ ] SDR
+- [ ] VQA
 
 # Frequent Links
 - https://github.com/narendasan/AI-DNN-Papers
