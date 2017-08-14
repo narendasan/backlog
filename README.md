@@ -46,6 +46,7 @@ As things are completed, they will be crossed out and a link will be added to th
 - [ ] Spike Networks
 - [ ] Binary Networks 
 - [ ] Biasian Networks 
+- [ ] Information Theory
 
 # Frequent Links
 - https://github.com/narendasan/AI-DNN-Papers
