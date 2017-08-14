@@ -61,3 +61,9 @@ Build a robot for the UAV Competition
 #### Status 
 
 First Competition is done 
+
+### Potential Projects
+
+#### Rapid Prototypes of Rapid Prototypes
+- How to make anything 
+- Make a PCB Mill/Caligraphy bot for thr office 
