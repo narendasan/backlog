@@ -39,6 +39,7 @@ As things are completed, they will be crossed out and a link will be added to th
 - [ ] GANs
 - [ ] Pix2Pix
 - [ ] Deep RL
+- [ ] Imitation Learning
 - [ ] Seq2Seq
 - [ ] MCU Based Board Design
 - [ ] SDR
