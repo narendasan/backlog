@@ -22,7 +22,7 @@ As things are completed, they will be crossed out and a link will be added to th
 - [ ] Arbor Development - https://github.com/acm-uiuc/arbor
 - [ ] Find someone to/Run Banks of the Boneyard
 - [ ] Implement Pix2Pix
-
+- [ ] Setup Paper autoprint from ArXiv-Sanity
 
 ## Things to Make
 
