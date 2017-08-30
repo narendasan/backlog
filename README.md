@@ -23,6 +23,7 @@ As things are completed, they will be crossed out and a link will be added to th
 - [ ] Find someone to/Run Banks of the Boneyard
 - [ ] Implement Pix2Pix
 - [ ] Setup Paper autoprint from ArXiv-Sanity
+- [ ] Redo narendasan.com
 
 ## Things to Make
 
