@@ -34,6 +34,7 @@ As things are completed, they will be crossed out and a link will be added to th
 - [ ] Cherry MX U2F Token
 - [ ] Lane Negotiations via DNN w/ 2 agents
 - [ ] iPython Notebook desktop backed by (nvidia) docker with some way to install packages
+- [ ] Package a kernel and docker, login with image to instaniate userspace
 
 ## Things to Explore
 
