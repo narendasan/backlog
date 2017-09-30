@@ -35,6 +35,7 @@ As things are completed, they will be crossed out and a link will be added to th
 - [ ] Lane Negotiations via DNN w/ 2 agents
 - [ ] iPython Notebook desktop backed by (nvidia) docker with some way to install packages
 - [ ] Package a kernel and docker, login with image to instaniate userspace
+- [ ] Browser Extention that creates the google short link system
 
 ## Things to Explore
 
