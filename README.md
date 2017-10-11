@@ -36,6 +36,8 @@ As things are completed, they will be crossed out and a link will be added to th
 - [ ] iPython Notebook desktop backed by (nvidia) docker with some way to install packages
 - [ ] Package a kernel and docker, login with image to instaniate userspace
 - [ ] Browser Extention that creates the google short link system
+- [ ] Mechanism library for etherium
+
 
 ## Things to Explore
 
@@ -52,6 +54,7 @@ As things are completed, they will be crossed out and a link will be added to th
 - [ ] Binary Networks 
 - [ ] Biasian Networks 
 - [ ] Information Theory
+
 
 # Frequent Links
 - https://github.com/narendasan/AI-DNN-Papers
