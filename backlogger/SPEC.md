@@ -33,3 +33,6 @@ Sends both desktop alert and a mobile alert (maybe twillio)
 
 Allow to queue reacurring tasks 
 
+
+> remind me to ...
+> consider ...
