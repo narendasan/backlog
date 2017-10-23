@@ -24,6 +24,7 @@ As things are completed, they will be crossed out and a link will be added to th
 - [ ] Implement Pix2Pix
 - [ ] Setup Paper autoprint from ArXiv-Sanity
 - [X] Redo narendasan.com
+- [ ] Add zoom in to figures ArXiv Vanity
 
 ## Things to Make
 
