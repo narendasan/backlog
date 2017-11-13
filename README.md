@@ -55,6 +55,7 @@ As things are completed, they will be crossed out and a link will be added to th
 - Biasian Networks 
 - Information Theory
 - Symbiotic Autonomy
+- Have AI explain its decision process
 - Empowerment
 
 # Frequent Links
