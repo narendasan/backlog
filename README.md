@@ -54,7 +54,8 @@ As things are completed, they will be crossed out and a link will be added to th
 - Binary Networks 
 - Biasian Networks 
 - Information Theory
-- Symbiotic Autonomy 
+- Symbiotic Autonomy
+- Empowerment
 
 # Frequent Links
 - https://github.com/narendasan/AI-DNN-Papers
