@@ -41,20 +41,20 @@ As things are completed, they will be crossed out and a link will be added to th
 
 ## Things to Explore
 
-- [ ] etherium  DApps - https://dapps.ethercasts.com/
-- [ ] GANs
-- [ ] Pix2Pix
-- [ ] Deep RL
-- [ ] Imitation Learning
-- [ ] Seq2Seq
-- [ ] MCU Based Board Design
-- [ ] SDR
-- [ ] VQA
-- [ ] Spike Networks
-- [ ] Binary Networks 
-- [ ] Biasian Networks 
-- [ ] Information Theory
-
+- etherium  DApps - https://dapps.ethercasts.com/
+- GANs
+- Pix2Pix
+- Deep RL
+- Imitation Learning
+- Seq2Seq
+- MCU Based Board Design
+- SDR
+- VQA
+- Spike Networks
+- Binary Networks 
+- Biasian Networks 
+- Information Theory
+- Symbiotic Autonomy 
 
 # Frequent Links
 - https://github.com/narendasan/AI-DNN-Papers
