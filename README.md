@@ -58,6 +58,7 @@ As things are completed, they will be crossed out and a link will be added to th
 - Symbiotic Autonomy
 - Have AI explain its decision process
 - Empowerment
+- Arxiv Santity based learning engine
 
 # Frequent Links
 - https://github.com/narendasan/AI-DNN-Papers
