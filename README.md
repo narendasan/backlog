@@ -38,6 +38,7 @@ As things are completed, they will be crossed out and a link will be added to th
 - [ ] Browser Extention that creates the google short link system
 - [ ] Mechanism library for etherium
 - [ ] human readable ipns
+- [ ] https://learn.adafruit.com/metal-inlay-capacitive-touch-buttons/overview
 
 
 ## Things to Explore
