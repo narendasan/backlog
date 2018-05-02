@@ -13,14 +13,14 @@ As things are completed, they will be crossed out and a link will be added to th
 - [ ] Create Groot Logger w/ Vis - https://github.com/acm-uiuc/canopy
 - [ ] Create Groot Bot - https://github.com/acm-uiuc/groot-bot
 - [X] Define ACM Projects format for Fall 2017 
-- [ ] IlliniHackers?
-- [ ] SIG plans (Bot, GLUG, etc.)
-- [ ] Finish GPU Cluster Frontend - https://github.com/acm-uiuc/gpu-cluster-frontend
-- [ ] Write GPU Cluster Backend - https://github.com/acm-uiuc/gpu-cluster-backend
+- [X] IlliniHackers?
+- [X] SIG plans (Bot, GLUG, etc.)
+- [X] Finish GPU Cluster Frontend - https://github.com/acm-uiuc/gpu-cluster-frontend
+- [X] Write GPU Cluster Backend - https://github.com/acm-uiuc/gpu-cluster-backend
 - [ ] Finish PyTorch Numpy PR - https://github.com/pytorch/pytorch/pull/2123
 - [X] Write CNN Presentation
-- [ ] Arbor Development - https://github.com/acm-uiuc/arbor
-- [ ] Find someone to/Run Banks of the Boneyard
+- [X] Arbor Development - https://github.com/acm-uiuc/arbor
+- [X] Find someone to/Run Banks of the Boneyard
 - [ ] Implement Pix2Pix
 - [ ] Setup Paper autoprint from ArXiv-Sanity
 - [X] Redo narendasan.com
@@ -39,7 +39,8 @@ As things are completed, they will be crossed out and a link will be added to th
 - [ ] Mechanism library for etherium
 - [ ] human readable ipns
 - [ ] https://learn.adafruit.com/metal-inlay-capacitive-touch-buttons/overview
-
+- [ ] Word Suggestion system 
+  - Given 2 - 3 words recommend another in that vein. Ex. "Metric, Feature, Quality...." 
 
 ## Things to Explore
 
