@@ -50,7 +50,7 @@ There is are a lot of ideas I forget so this repo is a catalog of those so I can
   - A3C
 - Imitation Learning
 - Seq2Seq
-- MCU Based Board Design
+- ~~MCU Based Board Design~~
 - SDR
 - VQA
 - Spike Networks
