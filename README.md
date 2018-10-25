@@ -37,6 +37,7 @@ There is are a lot of ideas I forget so this repo is a catalog of those so I can
 - [ ] Browser Extention that creates the google short link system
 - [ ] Mechanism library for etherium
 - [ ] human readable ipns
+- [ ] Model Zoo that is actually readable 
 - [ ] https://learn.adafruit.com/metal-inlay-capacitive-touch-buttons/overview
 - [ ] Word Suggestion system 
   - Given 2 - 3 words recommend another in that vein. Ex. "Metric, Feature, Quality...." 
